@@ -1,8 +1,10 @@
-# AI Monitoring Agent - Standalone
+# AI Monitoring Agent 
 
 A conversational AI interface for monitoring systems.
 
 ## 🎯 Overview
+
+(extensive documentation here: https://deepwiki.com/Tony-A-Michailidis/ai-monitoring-agent)
 
 This standalone version provides powerful AI-driven monitoring capabilities with simplified deployment using Docker Compose. Perfect for:
 
@@ -27,7 +29,7 @@ This standalone version provides powerful AI-driven monitoring capabilities with
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   React Frontend│    │   FastAPI       │    │   Redis Cache   │
-│   (Port 3000)  │◄──►│   Backend       │◄──►│   (Port 6379)   │
+│   (Port 3000)   │◄──►│   Backend       │◄──►│   (Port 6379)   │
 │                 │    │   (Port 8000)   │    │                 │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
                               │
@@ -53,7 +55,7 @@ This standalone version provides powerful AI-driven monitoring capabilities with
 
 - **Docker & Docker Compose**: For container orchestration
 - **OpenAI API Key**: Required for conversational AI features
-- **Monitoring Systems**: Prometheus, Azure Monitor, or other sources (optional but recommended)
+- **Monitoring Systems**: Prometheus, Azure Monitor, or other sources
 
 ### Installation
 
