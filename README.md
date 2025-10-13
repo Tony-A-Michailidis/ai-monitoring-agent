@@ -328,7 +328,7 @@ We welcome contributions! Please:
 
 ## 📄 License
 
-This project is part of the EDH monitoring infrastructure. See the main repository for license details.
+See the main repository for license details.
 
 ## 🆘 Support
 
