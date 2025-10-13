@@ -1,6 +1,6 @@
 # AI Monitoring Agent - Standalone
 
-A conversational AI interface for monitoring systems that runs independently of ArgoCD and Kubernetes infrastructure.
+A conversational AI interface for monitoring systems.
 
 ## 🎯 Overview
 
