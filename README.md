@@ -350,4 +350,5 @@ See the main repository for license details.
 
 ---
 
-**🚀 Ready to get started?** Copy the project files, configure your `.env`, and run `docker-compose up --build`!
+**🚀 By the way, this was done entireley by another AI agent! So, as soon as you pick your jaw from the floor, copy the project files, configure your `.env`, and run `docker-compose up --build`!
+
