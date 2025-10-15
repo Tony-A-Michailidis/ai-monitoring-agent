@@ -54,7 +54,7 @@ This standalone version provides powerful AI-driven monitoring capabilities with
 ### Prerequisites
 
 - **Docker & Docker Compose**: For container orchestration
-- **OpenAI API Key**: Required for conversational AI features
+- **OpenAI API Key**: Required for conversational AI features, this may cost you a few $
 - **Monitoring Systems**: Prometheus, Azure Monitor, or other sources
 
 ### Installation
