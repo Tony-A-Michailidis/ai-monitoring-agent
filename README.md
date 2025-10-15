@@ -1,6 +1,6 @@
 # AI Monitoring Agent 
 
-A conversational AI interface for monitoring systems.
+A conversational interface for querying and analyzing monitoring data from multiple sources. The system enables users to interact with monitoring systems like Prometheus and Azure Monitor using natural language queries, powered by OpenAI's GPT-5 models.
 
 ## 🎯 Overview
 
@@ -38,7 +38,7 @@ This standalone version provides powerful AI-driven monitoring capabilities with
                     │  AI & Connectors│
                     │                 │
                     │ ┌─────────────┐ │
-                    │ │OpenAI GPT-4 │ │
+                    │ │OpenAI GPT-5 │ │
                     │ └─────────────┘ │
                     │ ┌─────────────┐ │
                     │ │ Prometheus  │ │
